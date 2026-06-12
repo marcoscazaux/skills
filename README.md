@@ -22,10 +22,6 @@ Works with any agent that supports the [Agent Skills standard](https://www.skill
 
 `antigravity` · `opencode` · `cursor` · `github-copilot` · `gemini-cli` · `codex` · `windsurf` · and more.
 
-## For Developers: Installation
-
-See [docs/REPOSITORY_INSTALLATION.md](docs/REPOSITORY_INSTALLATION.md) for setup instructions.
-
 ## Author
 
 **Marcos Cazaux** — Software Architect & Technical Lead · AI-Driven Engineering  
