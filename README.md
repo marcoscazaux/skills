@@ -29,4 +29,4 @@ Works with any agent that supports the [Agent Skills standard](https://www.skill
 
 ## License
 
-[MIT](./LICENSE) -
+[MIT](./LICENSE)
